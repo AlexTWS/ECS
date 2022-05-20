@@ -1,0 +1,17 @@
+{
+  "name": "invoke-fargate",
+  "version": "1.0.0",
+  "main": "invokeFargate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.1017.0" //hjghmnvbncvxmcv
+  },
+  "author": "",
+  "license": "ISC", //hjghjkbkffsfsdvxx
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "node-fetch": "^2.6.1" //huhiuhiuhffxx
+  }
+}
