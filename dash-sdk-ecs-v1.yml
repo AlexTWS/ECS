@@ -7,7 +7,7 @@ Parameters:
     Default: vpc-be38cec33
   SubnetId:
     Type: AWS::EC2::Subnet::Id
-    Default: subnet-ea06dc8c
+    Default: subnet-ea06dc8csdd
   Image:
     Type: String
     Default: public.ecr.aws/w2p9i4u4/dash-kics-scanning:latest
