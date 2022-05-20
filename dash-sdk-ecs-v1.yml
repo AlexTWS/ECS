@@ -4,7 +4,7 @@ Description: DashSDK - Infrastructure as Cdoe Scan - Automation script to deploy
 Parameters:
   VPC:
     Type: AWS::EC2::VPC::Id
-    Default: vpc-be38cec33
+    Default: vpc-be38cec333
   SubnetId:
     Type: AWS::EC2::Subnet::Id
     Default: subnet-ea06dc8csddX
